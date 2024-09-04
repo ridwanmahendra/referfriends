@@ -63,8 +63,8 @@ def analyze_relationship(input_text, papers):
     return analysis
 
 # Streamlit UI
-st.set_page_config(page_title="Research Paper Citation Generator", layout="wide")
-st.title("Research Paper Citation Generator")
+st.set_page_config(page_title="Referfriend", layout="wide")
+st.title("Referfriend - Universitas Teknokrat Indonesia")
 
 
 # Input dari user
